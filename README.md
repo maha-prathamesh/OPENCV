@@ -40,9 +40,11 @@ Binary           |  Binary Inverted                |  Zero                |  Tru
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_binary.jpg)  |  ![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_binary_inv.jpg)  |  ![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_tozero.jpg) | ![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_trucated.jpg)
 
-Adaptive Mean            |  Adaptive Gaussian          
-:-------------------------:|:-------------------------:
-![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_adaptive_mean.jpg)  |  ![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_adpative_gaussian.jpg)
+## Adaptive(Advanced) Techniques 
+
+Adaptive Mean            |  Adaptive Gaussian   |  Otsu         
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_adaptive_mean.jpg)  |  ![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_adpative_gaussian.jpg)  |  ![](https://github.com/maha-prathamesh/OPENCV/blob/main/output/thr_otsu.jpg)
 
 <br>
 
